@@ -1,0 +1,145 @@
+:root {
+  --background-color: rgb(26, 31, 35);
+  --text-color: rgb(153, 153, 153);
+}
+
+body {
+  font-family: "Playfair Display", serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.header {
+  padding: 10px;
+  margin-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+a {
+  transition: all 0.5s ease-in-out;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange !important;
+}
+
+.header-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  color: white !important;
+}
+
+.header-links a {
+  color: white;
+}
+
+.header2 {
+  text-align: right;
+  background-image: url(./images/alex-perez-ioJBsYQ-pPM-unsplash.jpg);
+  background-color: transparent;
+  background-position: contain;
+  color: white;
+}
+
+.cutout img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.header h1 {
+  border: 1px solid white;
+  border-radius: 0 8px 0 8px;
+  width: 200px;
+  padding: 5px;
+}
+
+#about-me {
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#about-me p {
+  color: white;
+}
+
+.container {
+  margin: 50px;
+  border-left: 1px solid white;
+  padding-left: 20px;
+}
+
+.my-projects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.my-projects > a {
+  flex-basis: 400px;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  border: 2px solid white;
+  border-radius: 5px;
+  transition: 0.5s all ease-in-out;
+  color: white;
+}
+
+.my-projects > a:hover {
+  box-shadow: inset 0 0 8px rgb(255, 119, 0), 0 0 15px rgb(243, 63, 3);
+}
+
+.my-projects h2,
+.my-projects p {
+  background-color: rgb(8, 8, 8);
+  width: 100px;
+  color: white;
+  border: 1px solid white;
+}
+
+#project1 {
+  background-image: url(./images/project1.png);
+}
+
+#project2 {
+  background-image: url(./images/JobFlow\ screenshot.png);
+}
+
+#project3 {
+  background-image: url(./images/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
+}
+
+#project4 {
+  background-image: url(./images/markus-spiske-Skf7HxARcoc-unsplash.jpg);
+}
+
+#project5 {
+  background-image: url(./images/riho-kroll-m4sGYaHYN5o-unsplash.jpg);
+}
+
+#contact-me > .content {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 30px;
+  color: white;
+}
+
+#contact-me a {
+  text-decoration: none;
+  color: white;
+}
