@@ -56,3 +56,8 @@ RESUME PAGE
 DOWNLOAD RESUME
 ![Screenshot 2023-10-09 143948](https://github.com/njheymann/react-portfolio/assets/125000756/496c4ab7-2946-42e2-9750-90839c69f4c9)
 
+## LINKS
+
+Deployed App on Netlify: https://main--beautiful-clafoutis-47a802.netlify.app/  
+Github Repository: https://github.com/njheymann/react-portfolio  
+
