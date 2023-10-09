@@ -30,15 +30,23 @@ WHEN I click on the links for GITHUB or LINKEDIN
 THEN I will be directed to their profiles  
 
 ## SCREENSHOTS
-
+HOMEPAGE
 ![Screenshot 2023-10-09 143801](https://github.com/njheymann/react-portfolio/assets/125000756/fbcef48b-1651-4487-9766-26aefac79be3)
 ![Screenshot 2023-10-09 143810](https://github.com/njheymann/react-portfolio/assets/125000756/89efdad2-df16-451e-b4af-e09932dd19e8)
-![Screenshot 2023-10-09 143834](https://github.com/njheymann/react-portfolio/assets/125000756/ea210078-d20e-408f-9c27-b96e2c51443b)
-![Screenshot 2023-10-09 143846](https://github.com/njheymann/react-portfolio/assets/125000756/684c2fbd-ebcf-4b40-8544-5152cb8dfa6f)
-![Screenshot 2023-10-09 143907](https://github.com/njheymann/react-portfolio/assets/125000756/6b53b3d5-b794-44d9-80ea-38491d099f96)
 
+MY WORK PAGE
+![Screenshot 2023-10-09 143834](https://github.com/njheymann/react-portfolio/assets/125000756/ea210078-d20e-408f-9c27-b96e2c51443b)
+
+CONTACT PAGE
+![Screenshot 2023-10-09 143846](https://github.com/njheymann/react-portfolio/assets/125000756/684c2fbd-ebcf-4b40-8544-5152cb8dfa6f)
+
+FORM REQUIREMENTS
+![Screenshot 2023-10-09 143907](https://github.com/njheymann/react-portfolio/assets/125000756/6b53b3d5-b794-44d9-80ea-38491d099f96)
 ![Screenshot 2023-10-09 143922](https://github.com/njheymann/react-portfolio/assets/125000756/3063f01d-0856-4442-8aef-daa4a780459d)
+
+RESUME PAGE
 ![Screenshot 2023-10-09 143935](https://github.com/njheymann/react-portfolio/assets/125000756/04a00cd3-5394-4250-8de4-333d1208494a)
 
+DOWNLOAD RESUME
 ![Screenshot 2023-10-09 143948](https://github.com/njheymann/react-portfolio/assets/125000756/496c4ab7-2946-42e2-9750-90839c69f4c9)
 
