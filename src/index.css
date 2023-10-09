@@ -47,7 +47,7 @@ a:hover {
 
 .header2 {
   text-align: right;
-  background-image: url(./images/alex-perez-ioJBsYQ-pPM-unsplash.jpg);
+  background-image: url(../public/images/alex-perez-ioJBsYQ-pPM-unsplash.jpg);
   background-color: transparent;
   background-position: contain;
   color: white;
@@ -112,23 +112,23 @@ a:hover {
 }
 
 #project1 {
-  background-image: url(./images/project1.png);
+  background-image: url(../public/images/project1.png);
 }
 
 #project2 {
-  background-image: url(./images/JobFlow\ screenshot.png);
+  background-image: url(../public/images/JobFlow\ screenshot.png);
 }
 
 #project3 {
-  background-image: url(./images/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
+  background-image: url(../public/images/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
 }
 
 #project4 {
-  background-image: url(./images/markus-spiske-Skf7HxARcoc-unsplash.jpg);
+  background-image: url(../public/images/markus-spiske-Skf7HxARcoc-unsplash.jpg);
 }
 
 #project5 {
-  background-image: url(./images/riho-kroll-m4sGYaHYN5o-unsplash.jpg);
+  background-image: url(../public/images/riho-kroll-m4sGYaHYN5o-unsplash.jpg);
 }
 
 #contact-me > .content {
@@ -156,15 +156,14 @@ input {
 
 /* Phone specs */
 @media (max-width: 414px) {
-  
   body {
-    margin: 10px; 
-    font-size: 14px; 
+    margin: 10px;
+    font-size: 14px;
   }
   .header {
     padding: 5px;
   }
-  
+
   img {
     max-width: 100%;
     height: auto;
