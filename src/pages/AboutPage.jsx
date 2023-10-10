@@ -10,7 +10,7 @@ export default function AboutPage() {
       <div class="container">
         <div id="about-me">
           <div class="cutout">
-            <img src="/images/nils.jpg" alt="me" />
+            <img src="/react-portfolio/images/nils.jpg" alt="me" />
           </div>
           <h1>About Me</h1>
           <div class="content">
