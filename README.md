@@ -58,6 +58,6 @@ DOWNLOAD RESUME
 
 ## LINKS
 
-Deployed App on Netlify: https://main--beautiful-clafoutis-47a802.netlify.app/  
+Deployed App on GitHub Pages: https://njheymann.github.io/react-portfolio/  
 Github Repository: https://github.com/njheymann/react-portfolio  
 
