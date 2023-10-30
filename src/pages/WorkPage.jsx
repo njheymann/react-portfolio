@@ -16,9 +16,12 @@ export default function WorkPage() {
               <h2>Project 2</h2>
               <p>JobFlow</p>
             </a>
-            <a href="project3.html" id="project3">
+            <a
+              href="https://book-my-boat-c0be683581a2.herokuapp.com/"
+              id="project3"
+            >
               <h2>Project 3</h2>
-              <p>Coming soon...</p>
+              <p>Book My Boat</p>
             </a>
             <a href="project4.html" id="project4">
               <h2>Project 4</h2>
